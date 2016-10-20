@@ -1,20 +1,25 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 3.5.2 (C:\Python35-32\python.exe)" />
+      <name value="Python 2.7.6 (/usr/bin/python2.7)" />
       <type value="Python SDK" />
-      <version value="Python 3.5.2" />
-      <homePath value="C:\Python35-32\python.exe" />
+      <version value="Python 2.7.6" />
+      <homePath value="/usr/bin/python2.7" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://C:/Python35-32/Lib/site-packages/Django-1.8.15-py3.5.egg" />
-            <root type="simple" url="file://C:/Python35-32/DLLs" />
-            <root type="simple" url="file://C:/Python35-32/Lib" />
-            <root type="simple" url="file://C:/Python35-32" />
-            <root type="simple" url="file://$USER_HOME$/AppData/Roaming/Python/Python35/site-packages" />
-            <root type="simple" url="file://C:/Python35-32/Lib/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1781124807" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+            <root type="simple" url="file:///usr/lib/pymodules/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1247972723" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
@@ -23,6 +28,30 @@
         </sourcePath>
       </roots>
       <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.6 virtualenv at ~/webapps/grafiexpress/local" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="$USER_HOME$/webapps/grafiexpress/local/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/webapps/grafiexpress/local/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/webapps/grafiexpress/local/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/webapps/grafiexpress/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/933401704" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/webapps/grafiexpress" />
     </jdk>
   </component>
 </application>
