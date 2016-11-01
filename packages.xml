@@ -1803,7 +1803,7 @@
         <entry key="Djamo" value="" />
         <entry key="DjanJinja" value="" />
         <entry key="Djang" value="" />
-        <entry key="Django" value="" />
+        <entry key="Django" value="1.10.3" />
         <entry key="Django-Abstract-Relations" value="" />
         <entry key="Django-Accounts" value="" />
         <entry key="Django-Actuary" value="" />
@@ -12585,7 +12585,7 @@
         <entry key="argopen" value="" />
         <entry key="argopt" value="" />
         <entry key="argos" value="" />
-        <entry key="argparse" value="" />
+        <entry key="argparse" value="1.4.0" />
         <entry key="argparse-oappend" value="" />
         <entry key="argparse-safe" value="" />
         <entry key="argparse.extra" value="" />
@@ -27087,7 +27087,7 @@
         <entry key="django-flashcard" value="" />
         <entry key="django-flashcookie" value="" />
         <entry key="django-flashpolicies" value="" />
-        <entry key="django-flat-theme" value="" />
+        <entry key="django-flat-theme" value="1.1.4" />
         <entry key="django-flatblocks" value="" />
         <entry key="django-flatblocks-xtd" value="" />
         <entry key="django-flatcontent" value="" />
@@ -30489,7 +30489,7 @@
         <entry key="django-smart-pagination" value="" />
         <entry key="django-smart-proxy" value="" />
         <entry key="django-smart-save" value="" />
-        <entry key="django-smart-selects" value="" />
+        <entry key="django-smart-selects" value="1.2.6" />
         <entry key="django-smart-selects-generic" value="" />
         <entry key="django-smart-selects-inlines" value="" />
         <entry key="django-smart-settings" value="" />
@@ -32239,7 +32239,7 @@
         <entry key="django_zoneadmin" value="" />
         <entry key="django_zonecms" value="" />
         <entry key="djangoaddattr" value="" />
-        <entry key="djangoajax" value="" />
+        <entry key="djangoajax" value="2.3.6" />
         <entry key="djangoappengine" value="" />
         <entry key="djangoapps-bases" value="" />
         <entry key="djangoapps-company" value="" />
@@ -60865,7 +60865,7 @@
         <entry key="pioneer" value="" />
         <entry key="pioneeravclient" value="" />
         <entry key="pior" value="" />
-        <entry key="pip" value="" />
+        <entry key="pip" value="8.1.2" />
         <entry key="pip-Win" value="" />
         <entry key="pip-accel" value="" />
         <entry key="pip-autoremove" value="" />
@@ -63132,7 +63132,7 @@
         <entry key="psycopg" value="" />
         <entry key="psycopg-ct" value="" />
         <entry key="psycopg-postgis" value="" />
-        <entry key="psycopg2" value="" />
+        <entry key="psycopg2" value="2.6.2" />
         <entry key="psycopg2-ct" value="" />
         <entry key="psycopg2-dateutils" value="" />
         <entry key="psycopg2-managed-connection" value="" />
@@ -76729,7 +76729,7 @@
         <entry key="setupreader" value="" />
         <entry key="setuptize_me" value="" />
         <entry key="setuptool" value="" />
-        <entry key="setuptools" value="" />
+        <entry key="setuptools" value="28.7.1" />
         <entry key="setuptools-bower" value="" />
         <entry key="setuptools-ci" value="" />
         <entry key="setuptools-clonedigger" value="" />
@@ -89429,7 +89429,7 @@
         <entry key="wsgioauth.zodb" value="" />
         <entry key="wsgipreload" value="" />
         <entry key="wsgiprof" value="" />
-        <entry key="wsgiref" value="" />
+        <entry key="wsgiref" value="0.1.2" />
         <entry key="wsgireloader" value="" />
         <entry key="wsgiserialize" value="" />
         <entry key="wsgissi" value="" />
