@@ -14,8 +14,12 @@
           <option name="url" value="https://gitlab.com/eliasmelgarejo/AgerApp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://danielgaleano@bitbucket.org/dissoi/grafiexpress.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\webApps" />
+    <option name="cloneParentDir" value="$USER_HOME$/workspace" />
   </component>
 </application>
